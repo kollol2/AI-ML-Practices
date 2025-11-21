@@ -1,9 +1,12 @@
+<<<<<<< HEAD
 '''The user enters a string containing a number (e.g., "45"). Convert it to:
 an integer
 a float
 a string again
 Print all three values with their types.'''
 
+=======
+>>>>>>> f0159b219516a6a434a0b38e2852b400a569974d
 num_str = input("Enter a number (string format): ")
 
 # convert to integer
